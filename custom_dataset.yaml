@@ -1,0 +1,17 @@
+names:
+- '1'
+- '10'
+- '11'
+- '12'
+- '13'
+- '2'
+- '3'
+- '4'
+- '5'
+- '6'
+- '7'
+- '8'
+- '9'
+nc: 13
+train: C:\Users\Ajay\Desktop\Inno_Projects\Tamil_Sign_Language\output\train
+val: C:\Users\Ajay\Desktop\Inno_Projects\Tamil_Sign_Language\output\val

@@ -1,0 +1,17 @@
+names:
+- class_1
+- class_2
+- class_3
+- class_4
+- class_5
+- class_6
+- class_7
+- class_8
+- class_9
+- class_10
+- class_11
+- class_12
+- class_13
+nc: 13
+train: C:\Users\Ajay\Desktop\Inno_Projects\Tamil_Sign_Language\output\train
+val: C:\Users\Ajay\Desktop\Inno_Projects\Tamil_Sign_Language\output\val
